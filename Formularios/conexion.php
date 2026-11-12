@@ -3,7 +3,7 @@ try {
     $host = "database-2.c9uyk88m8l8i.us-east-2.rds.amazonaws.com";
     $dbname = "postgres";
     $user = "postgres";
-    $password = "JadSoftware123456789.";
+    $password = "Clave123.";
     $port = "5432";
 
     $dsn = "pgsql:host=$host;port=$port;dbname=$dbname;";
